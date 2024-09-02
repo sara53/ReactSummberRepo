@@ -1,0 +1,17 @@
+-- var -- let -- const
+-- default values
+-- reference datatype VS Primitive datatype
+-- spread Operator
+-- destructuring
+-- rest params
+-- Arrow function
+-- this pattern
+-- string api
+-- array api
+ * find
+ * findIndex
+ * map
+ * every
+ * some
+ * filter
+ * forEach
