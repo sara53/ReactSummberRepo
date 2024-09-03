@@ -1,0 +1,8 @@
+-- new Features
+-- Object.keys
+-- Object.Values
+-- Object.entries
+-- setTimeout execution in memory
+-- promises -- (async await) (then -- catch)
+-- modules
+-- oop 
